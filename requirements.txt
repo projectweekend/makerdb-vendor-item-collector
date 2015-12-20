@@ -1,0 +1,2 @@
+Scrapy==1.0.0rc3
+psycopg2==2.6.1

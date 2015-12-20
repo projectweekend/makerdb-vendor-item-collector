@@ -1,0 +1,7 @@
+collector:
+    build: .
+    command: scrapy crawl
+    volumes:
+        - .:/src
+    env_file:
+        - ./local.env
