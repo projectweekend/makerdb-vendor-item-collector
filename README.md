@@ -1,0 +1,1 @@
+# makerdb-vendor-item-collector
